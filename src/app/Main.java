@@ -26,6 +26,8 @@ public class Main {
         ContaTerminal c1 = new ContaTerminal(agNum, ag, nomeCliente, saldo);
 
 
+        scan.close();
+
 
 
     }
